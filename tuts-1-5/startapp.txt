@@ -1,6 +1,7 @@
 #best way
 #from package.json --dev
 npm run dev
+#http://localhost:1894/
 
 
 
