@@ -1,4 +1,10 @@
+#best way
+#from package.json --dev
+npm run dev
+
+
+
 webpack --progress --colors --watch
 ../node_modules/.bin/webpack-dev-server --host 0.0.0.0 --port 1894
-/home/guinsly/development/public/tutorial/react-js-tutorials/redo-reactjs/tuts-1-8
+pwd => /home/guinsly/development/public/tutorial/react-js-tutorials/redo-reactjs/tuts-1-8
 node_modules/.bin/webpack-dev-server --host 0.0.0.0 --port 1894
