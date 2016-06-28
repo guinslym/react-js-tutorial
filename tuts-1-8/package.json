@@ -19,7 +19,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "./node_modules/.bin/webpack-dev-server --content-base src --inline --hot",
+    "dev": "./node_modules/.bin/webpack-dev-server --content-base src --inline --hot --host 0.0.0.0 --port 1894",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
